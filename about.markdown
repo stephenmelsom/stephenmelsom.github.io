@@ -2,18 +2,9 @@
 layout: page
 title: About
 permalink: /about/
-published: false
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a software engineer specializing in machine learning living in the greater Raleigh-Durham area of North Carolina. I love learning, the outdoors, and helping others. I'm fascinated with all forms of technology and find myself to be more of a generalist than anything else. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This blog is intended to reflect my generalism. In addition to software related posts, you'll likely see some posts about woodworking, traveling, engineering, and some other odds and ends. If you happen to stop by, welcome.
