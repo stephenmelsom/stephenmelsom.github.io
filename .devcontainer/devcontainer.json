@@ -22,11 +22,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-<<<<<<< HEAD
-				"eamodio.gitlens"
-=======
+				"eamodio.gitlens",
 				"streetsidesoftware.code-spell-checker"
->>>>>>> 697535ab0cc6f9f32e2c59c912860991ad19eb25
 			]
 		}
 	}
