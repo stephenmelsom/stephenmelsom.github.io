@@ -20,17 +20,17 @@
 
 title: Stephen Melsom
 email: sjmelsom@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A man in the ether always seeking just a little more meaning.
+tagline: Happy Tuesday!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "stephenmelsom.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  stephenmelsom
 
 # Build settings
-theme: minima
+remote_theme: zivhub/monophase@main
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
